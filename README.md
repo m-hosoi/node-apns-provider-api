@@ -2,12 +2,12 @@
 
 ## Install
 
-## Install nodejs (macos & ndenv)
+### Install nodejs (macos & ndenv)
     ndenv install v7.4.0
     ndenv local v7.4.0
 
 
-## Set up modules
+### Set up modules
 
     yarn
 or
