@@ -1,0 +1,1 @@
+~/.anyenv/envs/ndenv/versions/v7.4.0/bin/node --harmony-async-await $@
